@@ -23,7 +23,7 @@ int main()
 
    rev[begin] = '\0';
 
-   printf("%s\n", r);
+   printf("%s\n", rev);
 
    return 0;
 
